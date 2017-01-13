@@ -15,7 +15,7 @@ Documentation, tutorials, and best practices can be found at [getyank.org](http:
 
 Getting Started
 ---------------
-See the [Quickstart instructions](http://getyank.org/latest/quickstart.html).
+See the [Quickstart instructions](http://getyank.org/latest/quickstart.html)!
 
 Examples
 --------
